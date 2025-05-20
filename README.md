@@ -6,7 +6,7 @@ This repository contains a collection of Nate Herk's latest YouTube videos on AI
 
 Below is a visualization of the Data Science Life Cycle, which illustrates the key stages in data science projects:
 
-![Data Science Life Cycle](data_science_life_cycle.png)
+![Data Science Life Cycle](https://media.licdn.com/dms/image/v2/C5122AQEveEppRokp-w/feedshare-shrink_800/feedshare-shrink_800/0/1575126482156?e=2147483647&v=beta&t=iw9_0KS87zlCjvm1GZIEGsgWRSMBbM3bt3wszWviXas)
 
 The Data Science Life Cycle includes these key stages:
 - **Problem Identification**: Defining the business problem to be solved
