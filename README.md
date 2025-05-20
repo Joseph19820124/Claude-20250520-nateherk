@@ -2,6 +2,28 @@
 
 This repository contains a collection of Nate Herk's latest YouTube videos on AI automation and no-code tools. Nate Herk is a prominent content creator focusing on AI agents, automation, and no-code solutions, particularly using tools like n8n.
 
+## Data Science Life Cycle
+
+Below is a visualization of the Data Science Life Cycle, which illustrates the key stages in data science projects:
+
+![Data Science Life Cycle](data_science_life_cycle.png)
+
+The Data Science Life Cycle includes these key stages:
+- **Problem Identification**: Defining the business problem to be solved
+- **Business Understanding**: Understanding the domain and business context
+- **Data Acquisition & ETL**: Collecting, extracting, transforming, and loading data
+- **Data Understanding & EDA**: Exploratory data analysis to understand patterns
+- **Data Visualization**: Creating visual representations of data insights
+- **Feature Engineering**: Selecting and transforming features for modeling
+- **Model Creation, Training & Validation**: Building and validating ML models
+- **Model Deployment**: Implementing models in production environments
+- **Model Monitoring**: Ongoing tracking of model performance
+- **Data Drift Analysis**: Detecting changes in data patterns over time
+- **Model Drift Analysis**: Identifying degradation in model performance
+- **Dashboard, Reports & Scores**: Creating visualizations of results
+
+This cycle is iterative, with feedback loops for model recalibration and feature updates as needed.
+
 ## About Nate Herk
 
 Nate Herk runs the "Nate Herk | AI Automation" YouTube channel with over 172,000 subscribers. He specializes in teaching people how to build AI agents and create automation workflows without writing code. He also runs an agency called TrueHorizon AI that builds intelligent AI systems for businesses.
